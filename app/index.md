@@ -6,16 +6,18 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
 
+[Quick Spiced Lamb Wraps](../recipe/feb/quick-spiced-lamb-wraps.md)
+
+## Last Month's Favorites
+
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
+
 [Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 
 [Quick Spiced Lamb Wraps](../recipe/feb/quick-spiced-lamb-wraps.md)
 
 ### [Eggs Benny](writer/eggs-benny.md)
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
-
-### [John Lemon](writer/john-lemon.md)
-
-[Homemade Sausages](recipe/jan/homemade-sausages.md)
 
 ### [Madame Croque](writer/madame-croque.md)
 
