@@ -5,3 +5,5 @@
 Recipe Picks:
 
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
+
+- February: [Quick Spiced Lamb Wraps](../recipe/feb/quick-spiced-lamb-wraps.md)
