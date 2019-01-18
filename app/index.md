@@ -10,6 +10,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 
+[Quick Spiced Lamb Wraps](../recipe/feb/quick-spiced-lamb-wraps.md)
+
+
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
